@@ -1,0 +1,50 @@
+[{
+        "category": "All Categories",
+        "subcategory": null,
+        "product": null,
+        "code": 1234
+    },
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Mobiles",
+        "product": null,
+        "code": 1235
+    },
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Tablets",
+        "product": null,
+        "code": 1236
+    },
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Mobiles",
+        "product": "All Mobiles",
+        "code": 1236
+    },
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Tablets",
+        "product": "All Tablets",
+        "code": 1237
+    },
+
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Mobiles",
+        "product": "iphone",
+        "code": 1238
+    },
+    {
+        "category": "Mobiles and Tablets",
+        "subcategory": "Tablets",
+        "product": "ipad",
+        "code": 1239
+    },
+    {
+        "category": "Vehicle",
+        "subcategory": "Cars",
+        "product": "BMW",
+        "code": 1239
+    }
+]
